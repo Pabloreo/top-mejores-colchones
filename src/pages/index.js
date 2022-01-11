@@ -20,7 +20,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <Seo title="Home" />
-      <div style={{ backgroundImage: `url('../../colchon.jpeg')` }} className="hero-container">
+      <div style={{ backgroundImage: `url('../../colchon.png')` }} className="hero-container">
         <div className="hero-container-txt">
           <h1>¿Cual es el mejor colchón de México?</h1>
           <p>
